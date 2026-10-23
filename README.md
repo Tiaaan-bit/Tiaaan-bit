@@ -1,20 +1,16 @@
 
-# 👋 Hi, Christian
+# 💫 About Me:
 
-💫 About Me:
 I'm a Full-Stack Web Developer passionate about building
 modern, secure, and responsive web applications.
 
-- 🔭 Currently working with Laravel and PHP
-- 🌱 Learning more about backend development and automation
-- 💻 Interested in API development, databases, and web technologies
 
-🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](YOUR_TIKTOK_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
-💻 Tech Stack:
+# 💻 Tech Stack:
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -37,13 +33,3 @@ modern, secure, and responsive web applications.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0)](https://visitcount.itsvg.in)
